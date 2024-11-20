@@ -96,7 +96,6 @@ def main(config: DictConfig):
     print("Making experiment directory", config.local_run_dir)
 
     # login with Hugging Face token
-    login(token="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", add_to_git_credential=True)
     
     set_seed(config.seed)
 
