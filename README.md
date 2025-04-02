@@ -1,4 +1,4 @@
-
+# Reviewer 7zgf: To me, a shortcoming of the paper is that it doesn't adequately motivate why an SAE is a natural choice for producing the features to be regularized. Result tables can be found here: https://github.com/FPO-code/FPO_code/blob/main/accurate_control.md
 ## ⚡ Quick Start
 
 ### 1. 📦 Setting Up the Environment
